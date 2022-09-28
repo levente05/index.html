@@ -19,7 +19,7 @@
      <h1 style="background-color:gold;">A kutyák munkatársként vagy munkaeszközként (például: őrkutyák, vadászkutyák, szánhúzókutyák, vakvezetőkutyák), terápiás állatként, házi kedvencként egyaránt szolgálják az embereket. Kelet-Ázsiában (vagy éhínség idején a világ többi részén is) emberi táplálék is lehet belőlük, ilyen célra tenyésztett fajta például a csau csau.</h1>
     <hr>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Shiva%2C_aug-05-5.jpg" alt="">
-    <img src="https://nemkutya.com/wp-content/uploads/2019/08/106615-buksi.exe-hibat-eszlelt-d.gif" alt="60">
+    <img src="https://nemkutya.com/wp-content/uploads/2019/08/106615-buksi.exe-hibat-eszlelt-d.gif" alt="" width="500" height="600">
     <p>Tesla</p>
 </body>
 </html>
