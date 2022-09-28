@@ -7,6 +7,7 @@
     <title>Ez vagyok én</title>
 </head>
     Kutya
+    <hr>
 <body>
    <img src="https://www.nemzetisport.hu/data/cikk/2/86/52/3/cikk_2865203/Mazsi_960px.jpg" alt="">
    <h1 style="background-color:purple;">A kutya vagy eb ujjon járó emlős ragadozó állat, a szürke farkas egy már kihalt alfajának háziasított formája. Az egyetlen olyan emlős állatfaj, amely tudományos nevében megkapta a familiaris, azaz a családhoz tartozó jelzőt. A kutyákat szokás a társállatok sorában emlegetni.</h1>
